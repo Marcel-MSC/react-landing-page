@@ -1,2 +1,1 @@
-# react-landing-page
-Ladingin page of a company that sell bevegers
+Landing page of a company that sell beverages
