@@ -244,11 +244,11 @@ header .intro-text {
   padding-bottom: 200px;
   text-align: center;
 }
-/* Features Section */
-#features {
+/* Ours_Services Section */
+#Ours_Services {
   background: #f6f6f6;
 }
-#features i.fa {
+#Ours_Services i.fa {
   font-size: 38px;
   margin-bottom: 20px;
   transition: all 0.5s;
